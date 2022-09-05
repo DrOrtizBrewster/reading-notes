@@ -9,4 +9,4 @@
 * Make small achievable goals to help keep me motivated.
 * Review my ultimate goals regularly.
 
-My github portfolio lives here: 
+My github portfolio lives here: https://github.com/DrOrtizBrewster
