@@ -10,3 +10,5 @@
 * Review my ultimate goals regularly.
 
 My github portfolio lives here: https://github.com/DrOrtizBrewster
+
+Theme: Dinky
