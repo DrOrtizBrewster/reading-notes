@@ -1,9 +1,21 @@
-#Tex Based Interfaces
+#Text Based Interfaces
 *Terminal
 *Command Line
-  -Presents you with a prompt
--Command Line Arguements (-l)
-  -Option
-    -First command line arguement
 
+Command Line
+  -Presents you with a prompt
+  -Command Line Arguements (-l)
+   -Option
+      -First command line arguement
+  -Output
+    -Result once you run a command
+
+Terminal
+  -MAC - Terminal is under Applications and then Utilities or comman plus space
+  -Within a terminal you have a shell
+    - Part of the operating system that defines how the terminal will behave and looks after running commands for you.
+      -Most common shell is Bash
+        - Bourne again shell
+        -You can check which shell you are using by using the command echo
+  
 
