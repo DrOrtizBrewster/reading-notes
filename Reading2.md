@@ -48,7 +48,7 @@
  #### Files
     - Everything is a file
     - Linux is an extensionless system - it reads what is inside not what type of file it is
-    - .exe is an executible file or program
+    - .exe is an executable file or program
     - .txt is a plain text file
     - .png, gif, jpg are image files
     
