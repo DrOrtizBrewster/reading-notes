@@ -41,21 +41,21 @@
   - Dot - This is a reference to your current directory
   - dotdot - This is a reference to the parent directory. You can use this several times in a path to keep going up the hierarchy
   
- #### cd
-    - Location
-      - If you run this command without any arguments then it will always take you back to your home directory.
+ cd
+  - Location
+  - If you run this command without any arguments then it will always take you back to your home directory.
       
- #### Files
-    - Everything is a file
-    - Linux is an extensionless system - it reads what is inside not what type of file it is
-    - .exe is an executable file or program
-    - .txt is a plain text file
-    - .png, gif, jpg are image files
+ Files
+   - Everything is a file
+   - Linux is an extensionless system - it reads what is inside not what type of file it is
+   - .exe is an executable file or program
+   - .txt is a plain text file
+   - .png, gif, jpg are image files
     
- #### Escape Characters
-    - It is a back slash and it escapes or nullifies the special meaning of the next character.
+ Escape Characters
+   - It is a back slash and it escapes or nullifies the special meaning of the next character.
     
- #### Hidden Files and Directories
-    - The command *ls* will not list hidden files and directories by default.
-    - It can be modified by including the command line option -a so that it does show hidden files and directories.
+ Hidden Files and Directories
+   - The command *ls* will not list hidden files and directories by default.
+   - It can be modified by including the command line option -a so that it does show hidden files and directories.
     
