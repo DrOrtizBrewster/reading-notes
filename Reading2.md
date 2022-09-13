@@ -17,7 +17,7 @@
     - Within a terminal you have a shell
     - Part of the operating system that defines how the terminal will behave and looks after running commands for you.
     - Most common shell is Bash
-        - Bourne again shell
+        - Bourne Again Shell
         - You can check which shell you are using by using the command ***echo***
   
 # Basic Navigation
@@ -42,8 +42,8 @@
   - dotdot - This is a reference to the parent directory. You can use this several times in a path to keep going up the hierarchy
   
  #### cd
-    -Location
-      -If you run this command without any arguments then it will always take you back to your home directory.
+    - Location
+      - If you run this command without any arguments then it will always take you back to your home directory.
       
  #### Files
     - Everything is a file
@@ -56,5 +56,6 @@
     - It is a back slash and it escapes or nullifies the special meaning of the next character.
     
  #### Hidden Files and Directories
-    - The command *ls* which we have seen in the previous section will not list hidden files and directories by default. We may modify it by including the command line option -a so that it does show hidden files and directories.
+    - The command *ls* will not list hidden files and directories by default.
+    - It can be modified by including the command line option -a so that it does show hidden files and directories.
     
