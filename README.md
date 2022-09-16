@@ -1,12 +1,10 @@
-# My Reading Notes
-
-## Growth Mindset - My Definition
+# Introduction
 
 *When one believes that an individual can overcome adversity and reach a goal through hard work and diligence.*
 
-#### 3️⃣ Three Ways to Keep Myself in a Growth Mindset.
-* 🥅 Always have at least one learning goal.
-* ⛳ Make small achievable goals to help keep me motivated.
-* 📙 Review my ultimate goals regularly.
+## Table of Contents
 
-My github 📁 portfolio lives [here](https://github.com/DrOrtizBrewster)
+* Presentation
+* Reading 2
+* Class 3
+
