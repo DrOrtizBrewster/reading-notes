@@ -1,6 +1,6 @@
 # Introduction
 
-*When one believes that an individual can overcome adversity and reach a goal through hard work and diligence.*
+This is something wonderful about an absolutely wonderful new web page that I have created for a wonderful class.
 
 ## Table of Contents
 
