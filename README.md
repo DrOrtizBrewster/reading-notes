@@ -4,6 +4,6 @@
 
 ## Table of Contents
 
-* [Class One] (Presentation.md)
-* [Class Two] (Reading2.md)
-* [Class Three] (Class3.md)
+* [Class One](Presentation.md)
+* [Class Two](Reading2.md)
+* [Class Three](Class3.md)
