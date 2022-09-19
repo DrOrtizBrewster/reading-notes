@@ -4,9 +4,9 @@
 
 ### Choose one correct answer for each statement
 
-1. **Version Control** is a system that allows you to revisit various versions of a file or set of files by ***highlighting or recording*** changes. 
+1. **Version Control** is a system that allows you to revisit various versions of a file or set of files by ***highlighting or recording*** changes.
 2. **Centralized Version Control** system uses a single server to store all changes and file versions, which can be accessed by ***one or various*** clients.
-3. **Distributed Version Control system** addresses the vulnerability of the CVS being the single point of failure. It allows for multiple mirrored ***servers or repositories***, which allows programmers to collaborate. 
+3. **Distributed Version Control system** addresses the vulnerability of the CVS being the single point of failure. It allows for multiple mirrored ***servers or repositories***, which allows programmers to collaborate.
 4. Is **Git** a ***CVS or a DVCS***?
 5. **Git** mostly relies on ***server or local*** operations.
 6. What are the **three main states** for Git files?
@@ -45,12 +45,12 @@ Now, your files are tracked and there’s an initial commit. We will discuss the
 Cloning
 You can also create a copy of an existing Git repository from a particular server by using the clone command with a repository’s URL:
 
-$ git clone https://github.com/test
+$ git clone on <https://github.com/test>
 By cloning the file, you have copied all versions of all files for a project. This command leads to the creation of a directory called “test,” with an initialized .git directory inside it, which has copies of all versions of all files for the specified project. The command also automatically checks out — or retrieves for editing — a copy of the newest version of the project.
 
 To clone a repository into a directory with another name of your choosing, use the following command format:
 
-$ git clone https://github.com/test mydirectory
+$ git clone <https://github.com/test> mydirectory
 The command above makes a copy of the target repository in a directory named “mydirectory.”
 
 Workflow
