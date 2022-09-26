@@ -9,3 +9,4 @@ This is something wonderful about an absolutely wonderful new web page that I ha
 * [Class Three](class3.md)
 * [Class Four](class4.md)
 * [Class Five](class5.md)
+* [Class Six](class6.md)
