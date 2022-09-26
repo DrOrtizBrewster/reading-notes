@@ -37,4 +37,6 @@
 * color is the color of the text
 * HEX value starts with number sign
 * RGB has three values
-* RGBA value has 4 values.
+* RGBA value has 4 values
+* let yellow = "Yellow"   Item in quotes is called a string - the other yellow is the variable
+* console.log(yellow);  Because it has no quotes it is a variable and not a string  - this will show you what it looks like on your web page
