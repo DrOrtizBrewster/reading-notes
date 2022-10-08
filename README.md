@@ -11,3 +11,4 @@ This is something wonderful about an absolutely wonderful new web page that I ha
 * [Class Five](class5.md)
 * [Class Six](class6.md)
 * [Class Seven](class7.md)
+* [Class Eight](class8.md)
